@@ -27,8 +27,7 @@ Visual effects are built entirely with OpenCV: layered additive glow circles for
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kamehameha-cv.git
-cd kamehameha-cv
+https://github.com/ziyadshaikh-cook/kamehameha-cv.git
 ```
 
 ### Step 2 — Create environment
